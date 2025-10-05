@@ -1,3 +1,4 @@
 streamlit
-Huggingface API
-ENV
+requests
+python-dotenv
+
